@@ -1,0 +1,1 @@
+REG ADD "HKLM\Software\Policies\Citrix" /f /v "EnableX1FTU" /t REG_DWORD /d "0"
